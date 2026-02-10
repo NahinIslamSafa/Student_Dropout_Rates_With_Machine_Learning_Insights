@@ -1,1 +1,9 @@
 # Student_Dropout_Prediction_ML
+In this project, a questionnaire-based dataset was analyzed to identify the key factors influencing student dropout risk in Bangladeshi private universities. Approximately 450 valid student responses were collected using a psychologist-validated questionnaire encompassing demographic, academic, psychological, social, and lifestyle dimensions.
+The collected data were cleaned, encoded, and preprocessed to ensure consistency and suitability for machine learning analysis. Missing values were handled logically, categorical variables were encoded, and numerical features were standardized to produce an analysis-ready dataset.
+
+Multiple supervised machine learning models were trained and evaluated to predict dropout risk. To ensure interpretability and robustness, feature selection and explanation techniques were applied, including tree-based feature importance, Recursive Feature Elimination (RFE), and SHAP (SHapley Additive Explanations).
+
+The SHAP analysis revealed that Relationship Satisfaction had the strongest influence on dropout predictions across all models. Other highly impactful features included Adjustment Difficulty, Program Satisfaction Level, Overall Health Condition, Classmate Cooperation, and Father’s Education Level. Lower relationship satisfaction, poorer health, and greater adjustment difficulty were associated with higher dropout risk, while stronger peer cooperation and higher program satisfaction were associated with lower risk.
+
+Overall, the project emphasized model interpretability alongside predictive accuracy, providing transparent, data-driven insights into the academic and non-academic factors most strongly associated with student dropout. These findings support the development of early-warning systems and targeted institutional interventions aimed at improving student retention within the local educational context.
