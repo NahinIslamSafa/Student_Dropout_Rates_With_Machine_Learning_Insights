@@ -1,4 +1,8 @@
-## Student Dropout Rates With Machine Learning Insights
+# Student Dropout Analysis & Prediction
+
+A machine learning project that analyzes questionnaire-based data from approximately 450 students at private universities in Bangladesh to identify factors associated with student dropout risk.
+
+The project combines supervised machine learning, feature selection, and explainable AI to predict dropout risk and investigate the factors contributing to model predictions.
 
 ## Project Overview
 
