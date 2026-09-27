@@ -1,4 +1,4 @@
-# Reducing Student Dropout Rates With Machine Learning Insights
+# Student Dropout Rates With Machine Learning Insights
 
 ## Project Overview
 
